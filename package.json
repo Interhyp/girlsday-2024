@@ -1,0 +1,19 @@
+{
+  "name": "basic-website",
+  "version": "0.0.0",
+  "description": "This is a template for a basic HTML website.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "Interhyp Girls' Day Team",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
