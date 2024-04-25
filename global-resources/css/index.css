@@ -153,7 +153,6 @@ section {
   border-width: 3px;
   border-style: solid;
 
-  width: 30vw;
   display: flex;
   flex-direction: column;
   gap: 2vh;
