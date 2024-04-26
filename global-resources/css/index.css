@@ -199,7 +199,7 @@ section {
 
 @media screen and (max-width: 1000px) {
   .reviews {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
   .experience {
     flex-wrap: wrap;
